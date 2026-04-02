@@ -6,7 +6,7 @@ A repository of images optimized for use on [TRMNL](https://trmnl.com/) devices.
 To reference the images hosted here on GitHub directly, use the format `{{base_url}}/{{league}}/{{style}}/{{team_id}}.svg`
 * `style` is either "color", "2-bit" or "1-bit"
 * `team_id`s are not official, but generally conform to the most common 2 or 3 letter code used by the leagues and various sports broadcasters
-* `base_url` for all sports logos is `https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports`
+* `base_url` for all sports logos is `https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports`
 
 ## Hockey - NHL
 
@@ -15,9 +15,9 @@ To reference the images hosted here on GitHub directly, use the format `{{base_u
 Example
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/color/MTL.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/MTL.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/1-bit/MTL.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nhl/color/MTL.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nhl/2-bit/MTL.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nhl/1-bit/MTL.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
@@ -35,9 +35,9 @@ Example
 
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/color/MIN.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/2-bit/MIN.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/1-bit/MIN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nba/color/MIN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nba/2-bit/MIN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nba/1-bit/MIN.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
@@ -56,9 +56,9 @@ Example
 
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/color/NY.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/2-bit/NY.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/1-bit/NY.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/wnba/color/NY.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/wnba/2-bit/NY.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/wnba/1-bit/NY.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
@@ -76,9 +76,9 @@ Example
 
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/color/TOR.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/2-bit/TOR.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/1-bit/TOR.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb/color/TOR.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb/2-bit/TOR.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb/1-bit/TOR.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
@@ -96,9 +96,9 @@ Example
 
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/color/VAN.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/2-bit/VAN.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/1-bit/VAN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mls/color/VAN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mls/2-bit/VAN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mls/1-bit/VAN.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
@@ -116,9 +116,9 @@ Example
 
 <table>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/color/ARI.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/2-bit/ARI.svg' width='248'></td>
-    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/1-bit/ARI.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nfl/color/ARI.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nfl/2-bit/ARI.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/nfl/1-bit/ARI.svg' width='248'></td>
   </tr>
   <tr>
     <td align='center'>Color</td>
