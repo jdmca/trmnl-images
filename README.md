@@ -88,6 +88,26 @@ Example
 </table>
 
 
+## Baseball - MLB (Cap Inisignia)
+
+[The full list](sports-mlb-cap.md)
+
+Example
+
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb-cap/color/CLE.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb-cap/2-bit/CLE.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/jdmca/trmnl-images/refs/heads/main/sports/mlb-cap/1-bit/CLE.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
+
+
 ## Football (Soccer) - MLS
 
 [The full list](sports-mls.md)
